@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         auth= FirebaseAuth.getInstance();
         firebaseDatabase = FirebaseDatabase.getInstance();
+        //data
 
 
 
